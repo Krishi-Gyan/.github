@@ -9,7 +9,7 @@ Welcome to the Krishi Gyan App repository! This project, developed in collaborat
 - [Usage](#usage)
 - [Contributors](#contributors)
 - [License](#license)
-- [Research Documents](#research-documents)
+- [Research Documents]([#research-documents](https://drive.google.com/drive/folders/1a2rbmdTlKD9QQBjYpeb8srNlOeLxOyP9?usp=drive_link))
 - [UI Images](#ui-images)
 
 ## Project Description
